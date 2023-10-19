@@ -20,4 +20,4 @@ Currently I create my own [game engine](https://github.com/NoiseStudio/NoiseEngi
 |----|-----------|-----|
 |[Arlekin Client](https://github.com/ArlekinTeam/ArlekinClient)|client for instant messenger like Discord|Rust, HTML, CSS|
 |Arlekin Backend|API for instant messenger like Discord|C#, ASP.NET|
-|[RORSK](https://github.com/Vixenka/RORSK)|Funded science project for emilinate arithmetic calculation differences|Rust, Vulkan, SPIR-V|
+|[RORSK](https://github.com/Vixenka/RORSK)|Funded research project for emilinate arithmetic calculation differences|Rust, Vulkan, SPIR-V|
