@@ -1,5 +1,5 @@
 > [!NOTE]
-> #OpenToWork, because I want to learn new things in new and bigger team for self-improvement.
+> #OpenToWork, because I want to learn new things in new and bigger team for self-improvement. infvix@gmail.com
 
 ### Hi || ohayo 👋
 I'm Vixen, a programmer enthusiast who loves performance, because I trait programming as art.
