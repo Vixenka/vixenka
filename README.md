@@ -1,10 +1,7 @@
-> [!NOTE]
-> #OpenToWork, because I want to learn new things in new and bigger team for self-improvement. infvix@gmail.com
-
 ### Hi || ohayo 👋
 I'm Vixen, a programmer enthusiast who loves performance, because I treat programming as art.
 
-Currently I'm creating my own [game engine](https://github.com/NoiseStudio/NoiseEngine), but in the future I want to create my own next-generation programming language and OS based on own JIT compiler assisted with AOT optimizations.
+Currently I'm creating [tool for sharing GPU across VMs](https://github.com/Vixenka/wie), but in the future I want to create my own next-generation programming language and OS based on own JIT compiler assisted with AOT optimizations.
 
 ## My projects
 
